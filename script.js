@@ -75,11 +75,14 @@ let y = 5;
 
 alert(x > y); // This will alert true because x is greater than y
 
-
 //02
 let aga = 16; // You can change this value to test
 
 alert(aga < 18 ? "Too young" : "Old enough");
+
+
+
+
 
 
 // 2. Question explanation and answer
