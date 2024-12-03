@@ -10,8 +10,8 @@ let lname = "Doe";    // Variable values: "Doe"
 let age = 35;            // Variable name and values: age = 35
 
 //3
-x = 10;
-y = 5;
+let x = 10;
+let y = 5;
 x *= y; // The value of x will now be 50
 
 //4
@@ -70,10 +70,10 @@ alert(squareRoot); // This will alert 3
 
 //10
 //01
-let x = 10;
-let y = 5;
+let i = 10;
+let k = 5;
 
-alert(x > y); // This will alert true because x is greater than y
+alert(i > k); // This will alert true because i is greater than k
 
 //02
 let aga = 16; // You can change this value to test
